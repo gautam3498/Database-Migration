@@ -19,7 +19,7 @@ AWS offers a wide range of tools and services that can help businesses transform
 
 So, whether you're a small business just starting out or an established enterprise looking to modernize your IT infrastructure, the migration of a simple WordPress application to AWS is a great place to start. By following the steps outlined in this project, you can begin to reap the benefits of AWS and take your digital capabilities to the next level
 
-![image](https://drive.google.com/file/d/1LgrzAoOPSI7Dnx-Do-x7w8IyAM4EkzrA/view?usp=drive_link)
+![image](https://github.com/gautam3498/Database-Migration/blob/main/Database-Migration.png)
 
 In conclusion, migrating a web application to AWS can be a complex process, but with the right tools and expertise, it can lead to a more efficient, secure, and scalable solution. The migration of a simple WordPress application from an on-premises environment to AWS, as outlined in this article, showcases the capabilities of AWS and its potential to enhance the digital capabilities of businesses.
 
